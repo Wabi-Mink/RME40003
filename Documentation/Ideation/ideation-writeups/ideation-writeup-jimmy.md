@@ -22,7 +22,9 @@ Like the gearbox project, the twist-lock is the idea that an attachment could be
 
 
 
-## Geneva Mechanism
+## Rotation Mechanism:
+
+### Geneva Mechanism
 
 A Geneva mechanism would help in converting continuous motion to stepped motion, which would be useful for controlling jig motion.
 
@@ -35,6 +37,22 @@ A Geneva mechanism would help in converting continuous motion to stepped motion,
 
 * Loud!
 * There are probably others, but a Google Search will reveal them
+
+### Stepper + Timing Belt
+
+A stepper motor and timing belt to rotate the carousel into place
+
+**Pros**
+
+* Mechanically sound
+* Easier to maintain than a geneva mechanism, which is mechanically complex
+* Cheaper (no milling of metal parts, just off-the shelf components)
+
+**Cons**
+
+* Requires additional control mechanism
+
+---
 
 ## Alignment Towers
 

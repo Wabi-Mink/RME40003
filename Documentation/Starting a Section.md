@@ -2,7 +2,7 @@
 
 
 ```latex
-\subsection{Requirements}
+ \subsection{Requirements}
 \label{sect:GrpReqs}
 
 \subsubsection{Task Description}

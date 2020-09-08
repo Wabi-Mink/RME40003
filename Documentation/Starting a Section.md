@@ -2,7 +2,7 @@
 
 
 ```latex
- \subsection{Requirements}
+\subsection{Requirements}
 \label{sect:GrpReqs}
 
 \subsubsection{Task Description}
@@ -25,3 +25,15 @@
 \label{sect:GrpFinalDesign}
 ```
 
+**Information on Sectioning**
+
+The report has the following conventions for `\ref{}`s
+
+> Sections: 
+>
+> - `sect:GrpReqs`
+> - `sect:StrSelection`
+>
+> The first part will __always__ be a 3-letter prefix:
+>
+> - Jig / Grp / Str etc
